@@ -1,9 +1,8 @@
 # Bayesian item response theory (IRT) implemented with pystan and numpyro
 This repository includes source code of our paper (Usefulness of pystan and numpyro in Bayesian item response theory).
 
-In the source code, Bayesian IRT, 1PL-IRT and 2PL-IRT, were implemented with pystan and numpyro.
+In the source code, Bayesian IRT models (1PL-IRT and 2PL-IRT) were implemented with pystan and numpyro.
 Then, estimation results of latent parameters of 1PL-IRT and 2PL-IRT were compared between pystan and numpyro. 
-Please refer to our paper for the details. 
 
 
 # Requirement
