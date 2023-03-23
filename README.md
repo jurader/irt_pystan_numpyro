@@ -18,7 +18,7 @@ The following software packages were used on Google Colaboratory.
 * numpyro, version 0.10.1
 
 
-# Authors 
+# Author 
 The source code is written by the following authors.
 
 * Mizuho Nishio (Kobe University and Kyoto University)
