@@ -15,8 +15,8 @@ The following software packages were used on Google Colaboratory.
 # Preprint paper
 xxx
 
-DOI: xxx 
-URL: xxx 
+* DOI: xxx 
+* URL: xxx 
 
 
 # License
