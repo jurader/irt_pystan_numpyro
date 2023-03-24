@@ -18,7 +18,7 @@ The following software packages were used on Google Colaboratory.
 
 
 # Author of source code
-The source code is written by the following authors.
+The source code of this repository is written by the following authors.
 
 * Mizuho Nishio (Kobe University and Kyoto University)
 * Eiji Ota (Futaba Numerical Technologies) 
