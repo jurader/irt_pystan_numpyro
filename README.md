@@ -2,7 +2,7 @@
 This repository includes source code of our paper (Usefulness of pystan and numpyro in Bayesian item response theory).
 
 In the source code, Bayesian IRT models (1PL-IRT and 2PL-IRT) were implemented with pystan and numpyro.
-The estimation results of latent parameters of 1PL-IRT and 2PL-IRT were compared between pystan and numpyro. 
+In our paper, the estimation results of the latent parameters of 1PL-IRT and 2PL-IRT were compared between pystan and numpyro using the source code of this repository. 
 
 
 # Requirement
@@ -17,7 +17,7 @@ The following software packages were used on Google Colaboratory.
 * numpyro, version 0.10.1
 
 
-# Author 
+# Author of source code
 The source code is written by the following authors.
 
 * Mizuho Nishio (Kobe University and Kyoto University)
