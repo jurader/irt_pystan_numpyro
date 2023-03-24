@@ -24,7 +24,10 @@ The source code is written by the following authors.
 * Eiji Ota (Futaba Numerical Technologies) 
 
 
-# Preprint paper
+# Paper
+If the source code of this repository is used, please cite the following paper.
+
+## Preprint paper
 xxx
 
 * DOI: xxx 
