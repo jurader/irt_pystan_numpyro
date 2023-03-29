@@ -28,10 +28,9 @@ The source code of this repository is written by the following authors.
 If the source code of this repository is used, please cite the following paper.
 
 ## Preprint paper
-xxx
 
-* DOI: xxx 
-* URL: xxx 
+* DOI: https://doi.org/10.1101/2023.03.29.23287903
+* URL: https://medrxiv.org/cgi/content/short/2023.03.29.23287903v1
 
 
 # License
