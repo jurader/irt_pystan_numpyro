@@ -25,7 +25,13 @@ The source code of this repository is written by the following authors.
 
 
 # Paper
-If the source code of this repository is used, please cite the following paper.
+If the source code of this repository is used, please cite the following papers.
+
+## Journal paper
+Nishio M, Ota E, Matsuo H, Matsunaga T, Miyazaki A, Murakami T. 2023. Comparison between pystan and numpyro in Bayesian item response theory: evaluation of agreement of estimated latent parameters and sampling performance. PeerJ Computer Science 9:e1620 
+
+* DOI: https://doi.org/10.7717/peerj-cs.1620
+* URL: https://peerj.com/articles/cs-1620/
 
 ## Preprint paper
 
