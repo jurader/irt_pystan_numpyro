@@ -27,6 +27,12 @@ Google Colaboratoryでは、以下のソフトウェアパッケージが使用�
 # 論文
 本レポジトリのソースコードを使用する場合は、可能ならば以下の論文を引用してください。
 
+## Journal paper
+Nishio M, Ota E, Matsuo H, Matsunaga T, Miyazaki A, Murakami T. 2023. Comparison between pystan and numpyro in Bayesian item response theory: evaluation of agreement of estimated latent parameters and sampling performance. PeerJ Computer Science 9:e1620 
+
+* DOI: https://doi.org/10.7717/peerj-cs.1620
+* URL: https://peerj.com/articles/cs-1620/
+
 ## プレプリント論文
 
 * DOI: https://doi.org/10.1101/2023.03.29.23287903
